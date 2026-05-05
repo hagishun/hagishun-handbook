@@ -32,6 +32,7 @@ hagishun-handbook/
   principles/                        # 横断原則
     llm-grounding.md
     working-across-multiple-repos.md
+    free-tier-first.md
   templates/                         # 各リポジトリに配る雛形
     adr-template.md
     copilot-instructions-template.md
